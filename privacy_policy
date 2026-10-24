@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>VitalOS Privacy Policy</title>
+<meta name="description" content="How VitalOS collects, uses, and protects your information.">
+<style>
+  :root {
+    --bg: #000;
+    --card: #1c1c1e;
+    --border: #3a3a3c;
+    --text: #fff;
+    --muted: #b4b4ba;
+    --accent: #0a84ff;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", Roboto, sans-serif;
+    line-height: 1.7;
+  }
+  .wrap { max-width: 760px; margin: 0 auto; padding: 0 20px; }
+  header {
+    padding: 56px 0 32px;
+    background: linear-gradient(180deg, #06142f 0%, #000 100%);
+  }
+  header a.back { color: var(--muted); text-decoration: none; font-size: 0.95rem; }
+  header h1 { margin: 16px 0 4px; font-size: 2.3rem; }
+  header p { margin: 0; color: var(--muted); }
+  h2 { margin: 40px 0 12px; font-size: 1.35rem; }
+  h3 { margin: 24px 0 8px; font-size: 1.05rem; }
+  p, li { color: var(--muted); }
+  ul { padding-left: 22px; }
+  li { margin-bottom: 6px; }
+  a { color: var(--accent); }
+  table { width: 100%; border-collapse: collapse; margin: 16px 0; font-size: 0.95rem; }
+  th, td { text-align: left; padding: 12px; border: 1px solid var(--border); vertical-align: top; color: var(--muted); }
+  th { background: var(--card); color: var(--text); }
+  .note {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 16px 20px;
+    margin: 24px 0;
+  }
+  footer {
+    margin-top: 56px;
+    padding: 28px 0;
+    border-top: 1px solid var(--border);
+    text-align: center;
+    color: var(--muted);
+    font-size: 0.9rem;
+  }
+  footer a { margin: 0 10px; color: var(--muted); text-decoration: none; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <a class="back" href="index.html">&larr; VitalOS</a>
+    <h1>Privacy Policy</h1>
+    <p>Last updated: October 24, 2026</p>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <p>This Privacy Policy explains how VitalOS ("we", "us", "our") collects, uses, stores, and shares information when you use the VitalOS mobile app (the "App"). By using the App, you agree to the practices
+described here.</p>
+
+  <h2>1. Information we collect</h2>
+
+  <h3>Information you provide</h3>
+  <ul>
+    <li><strong>Account information:</strong> your email address and password (handled b).</li>
+    <li><strong>Profile and health information:</strong> your name, sex, birthday, height, weight, activity level, goals, goal weight, pace, diet, and the calorie and macro targets calculated from them.</li>
+    <li><strong>Logs you create:</strong> meals and foods, water intake, workouts, and w
+    <li><strong>Photos:</strong> a profile photo and progress photos, if you choose to add them.</li>
+    <li><strong>Coach conversations:</strong> messages you exchange with the in-app coac
+    <li><strong>Referral information:</strong> how you heard about us and any referral code you enter or share.</li>
+    <li><strong>Support messages:</strong> anything you send us when you contact support
+  </ul>
+
+  <h3>Information from your device (with your permission)</h3>
+  <ul>
+    <li><strong>Camera:</strong> used to scan food barcodes and to take progress photos.</li>
+    <li><strong>Photo library:</strong> used only for photos you select.</li>
+    <li><strong>Motion &amp; Fitness:</strong> used to read your step count.</li>
+  </ul>
+  <p>You can turn off any of these permissions at any time in iPhone Settings. Some features will stop working without them.</p>
+
+  <h3>Information collected automatically</h3>
+  <p>Our servers may keep limited technical records, such as request logs and rate-limit secure and working.</p>
+
+  <h2>2. How we use your information</h2>
+  <ul>
+    <li>To create and manage your account.</li>
+    <li>To calculate and show your calorie and macro targets, progress, streaks, and badges.</li>
+    <li>To store your logs and sync them across your devices.</li>
+    <li>To power features such as barcode scanning, food search, and the in-app coach.</li>
+    <li>To keep the App secure, prevent abuse, and fix problems.</li>
+    <li>To respond to support requests.</li>
+    <li>To comply with legal obligations.</li>
+  </ul>
+  <p>We do not sell your personal information.</p>
+
+  <h2>3. How we share information</h2>
+  <p>We share information only as described below.</p>
+  <table>
+    <tr><th>Who</th><th>Why</th></tr>
+    <tr>
+      <td>Supabase (service provider)</td>
+      <td>Hosts our authentication, database, and file storage. It processes your data o
+    </tr>
+    <tr>
+      <td>Open Food Facts (food database)</td>
+      <td>When you search for foods or scan a barcode, the search term or barcode numberct information. We do not send your name or account details.</td>
+    </tr>
+    <tr>
+      <td>Legal and safety</td>
+      <td>If required by law, or to protect the rights, safety, and security of our user
+    </tr>
+    <tr>
+      <td>Business transfers</td>
+      <td>If we are involved in a merger, acquisition, or sale of assets, your informatil notify you if this happens.</td>
+    </tr>
+  </table>
+
+  <h2>4. Health information</h2>
+  <p>VitalOS handles information about your body, diet, and activity. We use it only to provide the features of the App. We do not use it for advertising, and we do not share it with data brokers or
+advertisers.</p>
+  <div class="note">
+    <p style="margin:0"><strong>Not medical advice.</strong> VitalOS is for general well not diagnose, treat, or prevent any condition. Talk to a qualified health professionalbefore changing your diet or exercise routine.</p>
+  </div>
+
+  <h2>5. Data storage and security</h2>
+  <ul>
+    <li>Your data is stored with our cloud provider and protected by access controls so  their own information.</li>
+    <li>Data is encrypted in transit, and photos are stored privately and shown to you through short-lived links.</li>
+    <li>When you are offline, entries are kept on your device and sent when you reconnec
+    <li>No system is perfectly secure, but we work to protect your information and review our practices regularly.</li>
+  </ul>
+
+  <h2>6. How long we keep your data</h2>
+  <p>We keep your information while your account is active. If you delete your account, we permanently delete your profile, logs, photos, and coach history. Limited records may remain in backups for a short
+period or where we are legally required to keep them.</p>
+
+  <h2>7. Your choices and rights</h2>
+  <ul>
+    <li><strong>Access and update:</strong> view and edit your profile and goals in the
+    <li><strong>Export:</strong> download a copy of your data from the Profile screen.</li>
+    <li><strong>Delete:</strong> permanently delete your account and data from the Profifrom your account email.</li>
+    <li><strong>Permissions:</strong> change camera, photos, and motion access in iPhone Settings.</li>
+    <li><strong>Marketing:</strong> we do not currently send marketing emails. If we begt out.</li>
+  </ul>
+  <p>Depending on where you live (for example, the European Economic Area, the United Kiy have additional rights, including the right to object to or restrict processing, torequest correction, and to lodge a complaint with your local data protection authority. To use any of these rights, contact us using the details below.</p>
+
+  <h2>8. Children's privacy</h2>
+  <p>VitalOS is not intended for children under 13, and we do not knowingly collect infoks for your birthday during setup and does not allow users under 13. If you believe achild has given us information, contact us and we will delete it.</p>
+
+  <h2>9. International transfers</h2>
+  <p>Your information may be processed in countries other than your own, including the Uection laws may differ. We take steps to ensure your information remains protected.</p>
+
+  <h2>10. Changes to this policy</h2>
+  <p>We may update this policy from time to time. When we make important changes, we will update the date above and notify you in the App or by email where appropriate.</p>
+
+  <h2>11. Contact us</h2>
+  <p>
+    Questions or requests about your privacy?<br>
+    Email: <a href="mailto:YOUR_EMAIL@example.com">YOUR_EMAIL@example.com</a><br>
+    YOUR_COMPANY_OR_NAME, YOUR_MAILING_ADDRESS
+  </p>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    <p>
+      <a href="index.html">Home</a>
+      <a href="support.html">Support</a>
+      <a href="terms.html">Terms of Use</a>
+    </p>
+    <p>&copy; 2026 VitalOS. All rights reserved.</p>
+  </div>
+</footer>
+
+</body>
+</html>
